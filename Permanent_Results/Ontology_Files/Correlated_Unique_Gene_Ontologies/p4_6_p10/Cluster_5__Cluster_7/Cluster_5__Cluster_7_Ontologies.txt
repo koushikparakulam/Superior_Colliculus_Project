@@ -1,0 +1,21 @@
+Molecular/Biological/Cellular Ontology Terms: 
+
+GO:0005576      extracellular region                                                                                                     ['Igfbpl1']                             
+GO:0009966      regulation of signal transduction                                                                                        ['Igfbpl1']                             
+GO:0001558      regulation of cell growth                                                                                                ['Igfbpl1']                             
+GO:0062023      collagen-containing extracellular matrix                                                                                 ['Igfbpl1']                             
+GO:0005520      insulin-like growth factor binding                                                                                       ['Igfbpl1']                             
+GO:0005615      extracellular space                                                                                                      ['Igfbpl1']                             
+GO:0007165      signal transduction                                                                                                      ['Igfbpl1']                             
+
+
+Protein Ontology Terms: 
+
+NO Protein ONTOLOGY TERMS
+
+
+Pathway Ontology Terms: 
+
+NO Pathway ONTOLOGY TERMS
+
+

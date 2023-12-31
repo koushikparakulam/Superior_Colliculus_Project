@@ -1,0 +1,50 @@
+Molecular/Biological/Cellular Ontology Terms: 
+
+GO:0005515      protein binding                                                                                                          ['En1']                                 
+GO:0003677      DNA binding                                                                                                              ['En1']                                 
+GO:0035264      multicellular organism growth                                                                                            ['En1']                                 
+GO:1990837      sequence-specific double-stranded DNA binding                                                                            ['En1']                                 
+GO:0071542      dopaminergic neuron differentiation                                                                                      ['En1']                                 
+GO:0030326      embryonic limb morphogenesis                                                                                             ['En1']                                 
+GO:1990403      embryonic brain development                                                                                              ['En1']                                 
+GO:0043524      negative regulation of neuron apoptotic process                                                                          ['En1']                                 
+GO:0035176      social behavior                                                                                                          ['En1']                                 
+GO:0008344      adult locomotory behavior                                                                                                ['En1']                                 
+GO:0042756      drinking behavior                                                                                                        ['En1']                                 
+GO:0006357      regulation of transcription by RNA polymerase II                                                                         ['En1']                                 
+GO:0009953      dorsal/ventral pattern formation                                                                                         ['En1']                                 
+GO:0030902      hindbrain development                                                                                                    ['En1']                                 
+GO:0061743      motor learning                                                                                                           ['En1']                                 
+GO:0030182      neuron differentiation                                                                                                   ['En1']                                 
+GO:0021549      cerebellum development                                                                                                   ['En1']                                 
+GO:0000981      DNA-binding transcription factor activity, RNA polymerase II-specific                                                    ['En1']                                 
+GO:0007275      multicellular organism development                                                                                       ['En1']                                 
+GO:0010468      regulation of gene expression                                                                                            ['En1']                                 
+GO:0005634      nucleus                                                                                                                  ['En1']                                 
+GO:0035115      embryonic forelimb morphogenesis                                                                                         ['En1']                                 
+GO:0006355      regulation of DNA-templated transcription                                                                                ['En1']                                 
+GO:1901215      negative regulation of neuron death                                                                                      ['En1']                                 
+GO:0060173      limb development                                                                                                         ['En1']                                 
+GO:0006366      transcription by RNA polymerase II                                                                                       ['En1']                                 
+GO:0000978      RNA polymerase II cis-regulatory region sequence-specific DNA binding                                                    ['En1']                                 
+GO:0009954      proximal/distal pattern formation                                                                                        ['En1']                                 
+GO:0043473      pigmentation                                                                                                             ['En1']                                 
+GO:0030917      midbrain-hindbrain boundary development                                                                                  ['En1']                                 
+GO:0001227      DNA-binding transcription repressor activity, RNA polymerase II-specific                                                 ['En1']                                 
+GO:0000122      negative regulation of transcription by RNA polymerase II                                                                ['En1']                                 
+GO:0030901      midbrain development                                                                                                     ['En1']                                 
+GO:0045944      positive regulation of transcription by RNA polymerase II                                                                ['En1']                                 
+GO:0048666      neuron development                                                                                                       ['En1']                                 
+GO:0016020      membrane                                                                                                                 ['En1']                                 
+
+
+Protein Ontology Terms: 
+
+PC00119        homeodomain transcription factor                                                                                         ['En1']                                 
+
+
+Pathway Ontology Terms: 
+
+P00057          Wnt signaling pathway                                                                                                    ['En1']                                 
+
+

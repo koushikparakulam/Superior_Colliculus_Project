@@ -1,0 +1,20 @@
+Molecular/Biological/Cellular Ontology Terms: 
+
+GO:0005887      integral component of plasma membrane                                                                                    ['Pcdh11x']                             
+GO:0005515      protein binding                                                                                                          ['Pcdh11x']                             
+GO:0097225      sperm midpiece                                                                                                           ['Pcdh11x']                             
+GO:0061827      sperm head                                                                                                               ['Pcdh11x']                             
+GO:0007155      cell adhesion                                                                                                            ['Pcdh11x']                             
+
+
+Protein Ontology Terms: 
+
+PC00057        cadherin                                                                                                                 ['Pcdh11x']                             
+
+
+Pathway Ontology Terms: 
+
+P00057          Wnt signaling pathway                                                                                                    ['Pcdh11x']                             
+P00012          Cadherin signaling pathway                                                                                               ['Pcdh11x']                             
+
+

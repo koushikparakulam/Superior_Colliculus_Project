@@ -1,0 +1,35 @@
+Molecular/Biological/Cellular Ontology Terms: 
+
+GO:0005783      endoplasmic reticulum                                                                                                    ['P3h3']                                
+R-MMU-1474290   Collagen formation                                                                                                       ['P3h3']                                
+GO:0051213      dioxygenase activity                                                                                                     ['P3h3']                                
+GO:0005886      plasma membrane                                                                                                          ['P3h3']                                
+GO:0046872      metal ion binding                                                                                                        ['P3h3']                                
+GO:0016705      oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen                    ['P3h3']                                
+GO:0005515      protein binding                                                                                                          ['P3h3']                                
+GO:1902494      catalytic complex                                                                                                        ['P3h3']                                
+GO:0008152      metabolic process                                                                                                        ['P3h3']                                
+GO:0016491      oxidoreductase activity                                                                                                  ['P3h3']                                
+GO:0017185      peptidyl-lysine hydroxylation                                                                                            ['P3h3']                                
+GO:0032963      collagen metabolic process                                                                                               ['P3h3']                                
+GO:0032964      collagen biosynthetic process                                                                                            ['P3h3']                                
+R-MMU-1650814   Collagen biosynthesis and modifying enzymes                                                                              ['P3h3']                                
+GO:0005506      iron ion binding                                                                                                         ['P3h3']                                
+GO:0008285      negative regulation of cell population proliferation                                                                     ['P3h3']                                
+GO:0031418      L-ascorbic acid binding                                                                                                  ['P3h3']                                
+GO:0140096      catalytic activity, acting on a protein                                                                                  ['P3h3']                                
+GO:0019797      procollagen-proline 3-dioxygenase activity                                                                               ['P3h3']                                
+R-MMU-1474244   Extracellular matrix organization                                                                                        ['P3h3']                                
+GO:0005773      vacuole                                                                                                                  ['P3h3']                                
+
+
+Protein Ontology Terms: 
+
+PC00100        extracellular matrix glycoprotein                                                                                        ['P3h3']                                
+
+
+Pathway Ontology Terms: 
+
+NO Pathway ONTOLOGY TERMS
+
+

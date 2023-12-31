@@ -1,0 +1,67 @@
+Molecular/Biological/Cellular Ontology Terms: 
+
+GO:0000079      regulation of cyclin-dependent protein serine/threonine kinase activity                                                  ['Ccnd2']                               
+R-MMU-1640170   Cell Cycle                                                                                                               ['Ccnd2']                               
+GO:1902808      positive regulation of cell cycle G1/S phase transition                                                                  ['Ccnd2']                               
+GO:0044772      mitotic cell cycle phase transition                                                                                      ['Ccnd2']                               
+R-MMU-73857     RNA Polymerase II Transcription                                                                                          ['Ccnd2']                               
+GO:0005829      cytosol                                                                                                                  ['Ccnd2']                               
+R-MMU-69278     Cell Cycle, Mitotic                                                                                                      ['Ccnd2']                               
+GO:0050679      positive regulation of epithelial cell proliferation                                                                     ['Ccnd2']                               
+GO:0005654      nucleoplasm                                                                                                              ['Ccnd2']                               
+GO:0007049      cell cycle                                                                                                               ['Ccnd2']                               
+GO:0004693      cyclin-dependent protein serine/threonine kinase activity                                                                ['Ccnd2']                               
+GO:0019901      protein kinase binding                                                                                                   ['Ccnd2']                               
+GO:0016020      membrane                                                                                                                 ['Ccnd2']                               
+GO:0003674      molecular_function                                                                                                       ['Gse1']                                
+GO:0008150      biological_process                                                                                                       ['Gse1']                                
+GO:0005515      protein binding                                                                                                          ['Ccnd2']                               
+R-MMU-8934593   Regulation of RUNX1 Expression and Activity                                                                              ['Ccnd2']                               
+GO:0006468      protein phosphorylation                                                                                                  ['Ccnd2']                               
+GO:2000045      regulation of G1/S transition of mitotic cell cycle                                                                      ['Ccnd2']                               
+GO:2000726      negative regulation of cardiac muscle cell differentiation                                                               ['Ccnd2']                               
+R-MMU-69236     G1 Phase                                                                                                                 ['Ccnd2']                               
+GO:0005730      nucleolus                                                                                                                ['Ccnd2']                               
+GO:0030332      cyclin binding                                                                                                           ['Ccnd2']                               
+GO:0001934      positive regulation of protein phosphorylation                                                                           ['Ccnd2']                               
+GO:0008344      adult locomotory behavior                                                                                                ['Ccnd2']                               
+GO:1900087      positive regulation of G1/S transition of mitotic cell cycle                                                             ['Ccnd2']                               
+R-MMU-8878171   Transcriptional regulation by RUNX1                                                                                      ['Ccnd2']                               
+GO:0043066      negative regulation of apoptotic process                                                                                 ['Ccnd2']                               
+GO:0071481      cellular response to X-ray                                                                                               ['Ccnd2']                               
+GO:0051301      cell division                                                                                                            ['Ccnd2']                               
+GO:0045737      positive regulation of cyclin-dependent protein serine/threonine kinase activity                                         ['Ccnd2']                               
+GO:0051726      regulation of cell cycle                                                                                                 ['Ccnd2']                               
+GO:0007616      long-term memory                                                                                                         ['Ccnd2']                               
+GO:0000785      chromatin                                                                                                                ['Ccnd2']                               
+GO:0000082      G1/S transition of mitotic cell cycle                                                                                    ['Ccnd2']                               
+GO:0005737      cytoplasm                                                                                                                ['Ccnd2']                               
+GO:0016538      cyclin-dependent protein serine/threonine kinase regulator activity                                                      ['Ccnd2']                               
+GO:0061575      cyclin-dependent protein serine/threonine kinase activator activity                                                      ['Ccnd2']                               
+GO:0060045      positive regulation of cardiac muscle cell proliferation                                                                 ['Ccnd2']                               
+GO:0005634      nucleus                                                                                                                  ['Ccnd2']                               
+GO:0140014      mitotic nuclear division                                                                                                 ['Ccnd2']                               
+GO:0000307      cyclin-dependent protein kinase holoenzyme complex                                                                       ['Ccnd2']                               
+GO:0031965      nuclear membrane                                                                                                         ['Ccnd2']                               
+R-MMU-69231     Cyclin D associated events in G1                                                                                         ['Ccnd2']                               
+R-MMU-453279    Mitotic G1 phase and G1/S transition                                                                                     ['Ccnd2']                               
+GO:0097129      cyclin D2-CDK4 complex                                                                                                   ['Ccnd2']                               
+GO:0005575      cellular_component                                                                                                       ['Gse1']                                
+R-MMU-74160     Gene expression (Transcription)                                                                                          ['Ccnd2']                               
+R-MMU-212436    Generic Transcription Pathway                                                                                            ['Ccnd2']                               
+GO:0019887      protein kinase regulator activity                                                                                        ['Ccnd2']                               
+GO:0008284      positive regulation of cell population proliferation                                                                     ['Ccnd2']                               
+GO:0045931      positive regulation of mitotic cell cycle                                                                                ['Ccnd2']                               
+
+
+Protein Ontology Terms: 
+
+PC00138        kinase activator                                                                                                         ['Ccnd2']                               
+
+
+Pathway Ontology Terms: 
+
+P00013          Cell cycle                                                                                                               ['Ccnd2']                               
+P00048          PI3 kinase pathway                                                                                                       ['Ccnd2']                               
+
+

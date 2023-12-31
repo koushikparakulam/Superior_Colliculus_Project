@@ -1,0 +1,35 @@
+Molecular/Biological/Cellular Ontology Terms: 
+
+GO:0042995      cell projection                                                                                                          ['Thsd7a']                              
+GO:0005886      plasma membrane                                                                                                          ['Dpy19l1', 'Thsd7a']                   
+GO:0030154      cell differentiation                                                                                                     ['Thsd7a']                              
+GO:0031532      actin cytoskeleton reorganization                                                                                        ['Thsd7a']                              
+GO:0003674      molecular_function                                                                                                       ['Thsd7a']                              
+GO:0016020      membrane                                                                                                                 ['Dpy19l1', 'Thsd7a']                   
+R-MMU-597592    Post-translational protein modification                                                                                  ['Thsd7a']                              
+GO:0035268      protein mannosylation                                                                                                    ['Dpy19l1']                             
+GO:0016740      transferase activity                                                                                                     ['Dpy19l1']                             
+GO:0018193      peptidyl-amino acid modification                                                                                         ['Dpy19l1']                             
+GO:0098846      podocyte foot                                                                                                            ['Thsd7a']                              
+GO:0018406      protein C-linked glycosylation via 2'-alpha-mannosyl-L-tryptophan                                                        ['Dpy19l1']                             
+R-MMU-5173214   O-glycosylation of TSR domain-containing proteins                                                                        ['Thsd7a']                              
+GO:0005637      nuclear inner membrane                                                                                                   ['Dpy19l1']                             
+GO:0001525      angiogenesis                                                                                                             ['Thsd7a']                              
+R-MMU-5173105   O-linked glycosylation                                                                                                   ['Thsd7a']                              
+R-MMU-392499    Metabolism of proteins                                                                                                   ['Thsd7a']                              
+GO:0005576      extracellular region                                                                                                     ['Thsd7a']                              
+GO:0016757      glycosyltransferase activity                                                                                             ['Dpy19l1']                             
+GO:0000030      mannosyltransferase activity                                                                                             ['Dpy19l1']                             
+GO:0005773      vacuole                                                                                                                  ['Dpy19l1']                             
+
+
+Protein Ontology Terms: 
+
+PC00069        cell adhesion molecule                                                                                                   ['Thsd7a']                              
+
+
+Pathway Ontology Terms: 
+
+NO Pathway ONTOLOGY TERMS
+
+

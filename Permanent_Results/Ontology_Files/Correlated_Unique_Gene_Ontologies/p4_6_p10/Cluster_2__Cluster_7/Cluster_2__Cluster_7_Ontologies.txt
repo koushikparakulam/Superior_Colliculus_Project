@@ -1,0 +1,37 @@
+Molecular/Biological/Cellular Ontology Terms: 
+
+GO:0061629      RNA polymerase II-specific DNA-binding transcription factor binding                                                      ['Nhlh2']                               
+GO:0030154      cell differentiation                                                                                                     ['Nhlh2']                               
+GO:0007275      multicellular organism development                                                                                       ['Nhlh2']                               
+GO:0000977      RNA polymerase II transcription regulatory region sequence-specific DNA binding                                          ['Nhlh2']                               
+GO:0000981      DNA-binding transcription factor activity, RNA polymerase II-specific                                                    ['Nhlh2']                               
+GO:0005515      protein binding                                                                                                          ['Nhlh2']                               
+GO:0000978      RNA polymerase II cis-regulatory region sequence-specific DNA binding                                                    ['Nhlh2']                               
+GO:0021888      hypothalamus gonadotrophin-releasing hormone neuron development                                                          ['Nhlh2']                               
+GO:0042698      ovulation cycle                                                                                                          ['Nhlh2']                               
+GO:0008584      male gonad development                                                                                                   ['Nhlh2']                               
+GO:0007422      peripheral nervous system development                                                                                    ['Nhlh2']                               
+GO:0046983      protein dimerization activity                                                                                            ['Nhlh2']                               
+GO:0060179      male mating behavior                                                                                                     ['Nhlh2']                               
+GO:0021535      cell migration in hindbrain                                                                                              ['Nhlh2']                               
+GO:0006357      regulation of transcription by RNA polymerase II                                                                         ['Nhlh2']                               
+GO:0000785      chromatin                                                                                                                ['Nhlh2']                               
+GO:0003677      DNA binding                                                                                                              ['Nhlh2']                               
+GO:1990837      sequence-specific double-stranded DNA binding                                                                            ['Nhlh2']                               
+GO:0045944      positive regulation of transcription by RNA polymerase II                                                                ['Nhlh2']                               
+GO:0005634      nucleus                                                                                                                  ['Nhlh2']                               
+GO:0006915      apoptotic process                                                                                                        ['Nhlh2']                               
+GO:0006366      transcription by RNA polymerase II                                                                                       ['Nhlh2']                               
+GO:0001228      DNA-binding transcription activator activity, RNA polymerase II-specific                                                 ['Nhlh2']                               
+
+
+Protein Ontology Terms: 
+
+PC00055        basic helix-loop-helix transcription factor                                                                              ['Nhlh2']                               
+
+
+Pathway Ontology Terms: 
+
+NO Pathway ONTOLOGY TERMS
+
+

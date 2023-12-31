@@ -1,0 +1,226 @@
+p0_p4/6
+
+
+p0_C0
+
+p0_C0	 <---> p4/6_C0	 Total Correlation: 0.2978820234023938	 Name: Inhibitory
+p0_C0	 <---> p4/6_C2	 Total Correlation: 0.31083654992976434	 Name: Inhibitory
+p0_C0	 <---> p4/6_C5	 Total Correlation: 0.41350192624196974	 Name: Inhibitory
+p0_C0	 <---> p4/6_C9	 Total Correlation: 0.4288472743912789	 Name: Inhibitory
+p0_C0	 <---> p4/6_C4	 Total Correlation: 0.43754957529575156	 Name: Inhibitory
+p0_C0	 <---> p4/6_C6	 Total Correlation: 0.5611880170433665	 Name: Inhibitory
+p0_C0	 <---> p4/6_C1	 Total Correlation: 0.8116925999203353	 Name: 
+p0_C0	 <---> p4/6_C8	 Total Correlation: 0.9704900916728383	 Name: Inhibitory
+p0_C0	 <---> p4/6_C7	 Total Correlation: 1.8484803172567783	 Name: 
+p0_C0	 <---> p4/6_C3	 Total Correlation: 3.1650813439252246	 Name: 
+p0_C0	 <---> p4/6_C10	 Total Correlation: 5.973651628928568	 Name: 
+
+
+p0_C1
+
+p0_C1	 <---> p4/6_C9	 Total Correlation: 1.021092197589215	 Name: Inhibitory
+p0_C1	 <---> p4/6_C0	 Total Correlation: 1.1389701246308277	 Name: Inhibitory
+p0_C1	 <---> p4/6_C8	 Total Correlation: 1.2450251961498027	 Name: Inhibitory
+p0_C1	 <---> p4/6_C4	 Total Correlation: 1.2741323192978902	 Name: Inhibitory
+p0_C1	 <---> p4/6_C2	 Total Correlation: 1.3174749641223966	 Name: Inhibitory
+p0_C1	 <---> p4/6_C6	 Total Correlation: 1.357630396294691	 Name: Inhibitory
+p0_C1	 <---> p4/6_C5	 Total Correlation: 1.8759018565337355	 Name: Inhibitory
+p0_C1	 <---> p4/6_C3	 Total Correlation: 3.3783438310807323	 Name: 
+p0_C1	 <---> p4/6_C7	 Total Correlation: 6.249340187328133	 Name: 
+p0_C1	 <---> p4/6_C10	 Total Correlation: 8.339603613882366	 Name: 
+p0_C1	 <---> p4/6_C1	 Total Correlation: 8.52565086506584	 Name: 
+
+
+p0_C2
+
+p0_C2	 <---> p4/6_C3	 Total Correlation: 1.2471891017511967	 Name: Excitatory
+p0_C2	 <---> p4/6_C7	 Total Correlation: 1.5114279322851012	 Name: Excitatory
+p0_C2	 <---> p4/6_C1	 Total Correlation: 1.5563840070128043	 Name: Excitatory
+p0_C2	 <---> p4/6_C10	 Total Correlation: 1.6628688037082662	 Name: Excitatory
+p0_C2	 <---> p4/6_C9	 Total Correlation: 2.157827878605771	 Name: 
+p0_C2	 <---> p4/6_C8	 Total Correlation: 3.5741032827390593	 Name: 
+p0_C2	 <---> p4/6_C0	 Total Correlation: 5.883447742579005	 Name: 
+p0_C2	 <---> p4/6_C6	 Total Correlation: 6.396894235380319	 Name: 
+p0_C2	 <---> p4/6_C2	 Total Correlation: 6.8530224664889365	 Name: Excitatory
+p0_C2	 <---> p4/6_C4	 Total Correlation: 7.83655480162637	 Name: 
+p0_C2	 <---> p4/6_C5	 Total Correlation: 13.434161560587283	 Name: 
+
+
+p0_C3
+
+p0_C3	 <---> p4/6_C2	 Total Correlation: 0.24606614168153246	 Name: Excitatory
+p0_C3	 <---> p4/6_C3	 Total Correlation: 0.37753375168715886	 Name: Excitatory
+p0_C3	 <---> p4/6_C9	 Total Correlation: 0.6252579531166874	 Name: 
+p0_C3	 <---> p4/6_C7	 Total Correlation: 0.7081586039677332	 Name: Excitatory
+p0_C3	 <---> p4/6_C0	 Total Correlation: 0.7204886769594034	 Name: 
+p0_C3	 <---> p4/6_C1	 Total Correlation: 0.8656367130891858	 Name: Excitatory
+p0_C3	 <---> p4/6_C10	 Total Correlation: 1.1665582329152027	 Name: Excitatory
+p0_C3	 <---> p4/6_C4	 Total Correlation: 1.4426739536110926	 Name: 
+p0_C3	 <---> p4/6_C8	 Total Correlation: 1.4591147199097079	 Name: 
+p0_C3	 <---> p4/6_C5	 Total Correlation: 1.5834744322332894	 Name: 
+p0_C3	 <---> p4/6_C6	 Total Correlation: 1.8421090182782547	 Name: 
+
+
+p0_C4
+
+p0_C4	 <---> p4/6_C5	 Total Correlation: 0.2787506628303268	 Name: Inhibitory
+p0_C4	 <---> p4/6_C0	 Total Correlation: 0.31489644570671377	 Name: Inhibitory
+p0_C4	 <---> p4/6_C2	 Total Correlation: 0.31634567933175817	 Name: Inhibitory
+p0_C4	 <---> p4/6_C9	 Total Correlation: 0.3786385176245784	 Name: Inhibitory
+p0_C4	 <---> p4/6_C4	 Total Correlation: 0.40552241044606474	 Name: Inhibitory
+p0_C4	 <---> p4/6_C1	 Total Correlation: 0.5063592293563723	 Name: 
+p0_C4	 <---> p4/6_C6	 Total Correlation: 0.5333630104606909	 Name: Inhibitory
+p0_C4	 <---> p4/6_C8	 Total Correlation: 1.1087467312277859	 Name: Inhibitory
+p0_C4	 <---> p4/6_C7	 Total Correlation: 1.447139152837174	 Name: 
+p0_C4	 <---> p4/6_C3	 Total Correlation: 3.6021586914903354	 Name: 
+p0_C4	 <---> p4/6_C10	 Total Correlation: 58.84753148847407	 Name: 
+
+
+p0_C5
+
+p0_C5	 <---> p4/6_C0	 Total Correlation: 0.17276070615764422	 Name: Inhibitory
+p0_C5	 <---> p4/6_C5	 Total Correlation: 0.21301457802021811	 Name: Inhibitory
+p0_C5	 <---> p4/6_C4	 Total Correlation: 0.22809012848368648	 Name: Inhibitory
+p0_C5	 <---> p4/6_C2	 Total Correlation: 0.24293341685088604	 Name: Inhibitory
+p0_C5	 <---> p4/6_C9	 Total Correlation: 0.27922299113752985	 Name: Inhibitory
+p0_C5	 <---> p4/6_C1	 Total Correlation: 0.40102922102787086	 Name: 
+p0_C5	 <---> p4/6_C6	 Total Correlation: 0.5358777588628594	 Name: Inhibitory
+p0_C5	 <---> p4/6_C8	 Total Correlation: 0.7570167715343438	 Name: Inhibitory
+p0_C5	 <---> p4/6_C7	 Total Correlation: 1.9457651305778658	 Name: 
+p0_C5	 <---> p4/6_C3	 Total Correlation: 13.13826015120815	 Name: 
+p0_C5	 <---> p4/6_C10	 Total Correlation: 15.928193083675318	 Name: 
+
+
+p0_C6
+
+p0_C6	 <---> p4/6_C1	 Total Correlation: 1.0783585916953404	 Name: Excitatory
+p0_C6	 <---> p4/6_C7	 Total Correlation: 1.1081712739167848	 Name: Excitatory
+p0_C6	 <---> p4/6_C3	 Total Correlation: 1.2373928818059643	 Name: Excitatory
+p0_C6	 <---> p4/6_C10	 Total Correlation: 1.355142690487439	 Name: Excitatory
+p0_C6	 <---> p4/6_C0	 Total Correlation: 3.434900101521622	 Name: 
+p0_C6	 <---> p4/6_C8	 Total Correlation: 3.9180257372236666	 Name: 
+p0_C6	 <---> p4/6_C4	 Total Correlation: 4.100792087908212	 Name: 
+p0_C6	 <---> p4/6_C2	 Total Correlation: 4.127580465008427	 Name: Excitatory
+p0_C6	 <---> p4/6_C6	 Total Correlation: 4.38375298537694	 Name: 
+p0_C6	 <---> p4/6_C9	 Total Correlation: 4.928448969463274	 Name: 
+p0_C6	 <---> p4/6_C5	 Total Correlation: 8.198996201245631	 Name: 
+
+
+p0_C7
+
+p0_C7	 <---> p4/6_C7	 Total Correlation: 0.8763999721776118	 Name: Excitatory
+p0_C7	 <---> p4/6_C1	 Total Correlation: 1.0060993761768584	 Name: Excitatory
+p0_C7	 <---> p4/6_C3	 Total Correlation: 1.2975033222287684	 Name: Excitatory
+p0_C7	 <---> p4/6_C10	 Total Correlation: 1.3202675209571975	 Name: Excitatory
+p0_C7	 <---> p4/6_C9	 Total Correlation: 2.3826269058659495	 Name: 
+p0_C7	 <---> p4/6_C0	 Total Correlation: 4.346975741212688	 Name: 
+p0_C7	 <---> p4/6_C4	 Total Correlation: 4.752077013569355	 Name: 
+p0_C7	 <---> p4/6_C6	 Total Correlation: 4.854549096359716	 Name: 
+p0_C7	 <---> p4/6_C5	 Total Correlation: 5.527974805292163	 Name: 
+p0_C7	 <---> p4/6_C2	 Total Correlation: 6.30117320289669	 Name: Excitatory
+p0_C7	 <---> p4/6_C8	 Total Correlation: 8.013693185068844	 Name: 
+
+
+p0_C8
+
+p0_C8	 <---> p4/6_C7	 Total Correlation: 0.9204675951705974	 Name: Excitatory
+p0_C8	 <---> p4/6_C3	 Total Correlation: 0.9863793919116493	 Name: Excitatory
+p0_C8	 <---> p4/6_C1	 Total Correlation: 1.0772770292560077	 Name: Excitatory
+p0_C8	 <---> p4/6_C10	 Total Correlation: 1.1279190138945852	 Name: Excitatory
+p0_C8	 <---> p4/6_C9	 Total Correlation: 1.2081792960419326	 Name: 
+p0_C8	 <---> p4/6_C0	 Total Correlation: 1.5087944904217672	 Name: 
+p0_C8	 <---> p4/6_C4	 Total Correlation: 2.25346516271467	 Name: 
+p0_C8	 <---> p4/6_C2	 Total Correlation: 2.858996314193667	 Name: Excitatory
+p0_C8	 <---> p4/6_C8	 Total Correlation: 3.0723077702175146	 Name: 
+p0_C8	 <---> p4/6_C6	 Total Correlation: 3.2017395791481653	 Name: 
+p0_C8	 <---> p4/6_C5	 Total Correlation: 3.563057306429915	 Name: 
+
+
+p0_C9
+
+p0_C9	 <---> p4/6_C9	 Total Correlation: 0.7112573617117578	 Name: Inhibitory
+p0_C9	 <---> p4/6_C0	 Total Correlation: 0.8015813969321514	 Name: Inhibitory
+p0_C9	 <---> p4/6_C6	 Total Correlation: 0.9122601206761661	 Name: Inhibitory
+p0_C9	 <---> p4/6_C4	 Total Correlation: 0.9147424025059531	 Name: Inhibitory
+p0_C9	 <---> p4/6_C2	 Total Correlation: 0.9729551590660277	 Name: Inhibitory
+p0_C9	 <---> p4/6_C5	 Total Correlation: 1.0561550751232025	 Name: Inhibitory
+p0_C9	 <---> p4/6_C8	 Total Correlation: 1.0710591680080577	 Name: Inhibitory
+p0_C9	 <---> p4/6_C1	 Total Correlation: 2.6910765947601867	 Name: 
+p0_C9	 <---> p4/6_C3	 Total Correlation: 3.4840932370190147	 Name: 
+p0_C9	 <---> p4/6_C7	 Total Correlation: 4.776062496460543	 Name: 
+p0_C9	 <---> p4/6_C10	 Total Correlation: 14.850028667187448	 Name: 
+
+
+p0_C10
+
+p0_C10	 <---> p4/6_C1	 Total Correlation: 0.7986886162456571	 Name: Excitatory
+p0_C10	 <---> p4/6_C7	 Total Correlation: 0.8872998297266553	 Name: Excitatory
+p0_C10	 <---> p4/6_C3	 Total Correlation: 1.025765341962945	 Name: Excitatory
+p0_C10	 <---> p4/6_C10	 Total Correlation: 1.189271589142025	 Name: Excitatory
+p0_C10	 <---> p4/6_C9	 Total Correlation: 1.2097541289591605	 Name: 
+p0_C10	 <---> p4/6_C0	 Total Correlation: 1.3474719945021008	 Name: 
+p0_C10	 <---> p4/6_C4	 Total Correlation: 1.3999960675821579	 Name: 
+p0_C10	 <---> p4/6_C2	 Total Correlation: 1.8888869130729722	 Name: Excitatory
+p0_C10	 <---> p4/6_C6	 Total Correlation: 2.028999619337886	 Name: 
+p0_C10	 <---> p4/6_C8	 Total Correlation: 2.1607296100112663	 Name: 
+p0_C10	 <---> p4/6_C5	 Total Correlation: 3.7711603262653646	 Name: 
+
+
+p0_C11
+
+p0_C11	 <---> p4/6_C2	 Total Correlation: 0.15504057382910644	 Name: Inhibitory
+p0_C11	 <---> p4/6_C9	 Total Correlation: 0.2914365852399544	 Name: Inhibitory
+p0_C11	 <---> p4/6_C0	 Total Correlation: 0.2951829785824598	 Name: Inhibitory
+p0_C11	 <---> p4/6_C5	 Total Correlation: 0.3097748867267365	 Name: Inhibitory
+p0_C11	 <---> p4/6_C4	 Total Correlation: 0.4173618399106689	 Name: Inhibitory
+p0_C11	 <---> p4/6_C6	 Total Correlation: 0.5609307822019582	 Name: Inhibitory
+p0_C11	 <---> p4/6_C3	 Total Correlation: 0.8310222831224701	 Name: 
+p0_C11	 <---> p4/6_C1	 Total Correlation: 0.880008638972535	 Name: 
+p0_C11	 <---> p4/6_C8	 Total Correlation: 0.9454761226842107	 Name: Inhibitory
+p0_C11	 <---> p4/6_C7	 Total Correlation: 2.267383047420177	 Name: 
+p0_C11	 <---> p4/6_C10	 Total Correlation: 16.610255947428936	 Name: 
+
+
+p0_C12
+
+p0_C12	 <---> p4/6_C7	 Total Correlation: 0.40676608122265784	 Name: Excitatory
+p0_C12	 <---> p4/6_C1	 Total Correlation: 0.7763825418272073	 Name: Excitatory
+p0_C12	 <---> p4/6_C9	 Total Correlation: 0.8704968865482474	 Name: 
+p0_C12	 <---> p4/6_C0	 Total Correlation: 0.9150663524440205	 Name: 
+p0_C12	 <---> p4/6_C10	 Total Correlation: 1.072123649558399	 Name: Excitatory
+p0_C12	 <---> p4/6_C4	 Total Correlation: 1.1984704985877845	 Name: 
+p0_C12	 <---> p4/6_C3	 Total Correlation: 1.217557894560091	 Name: Excitatory
+p0_C12	 <---> p4/6_C2	 Total Correlation: 1.4642373959399493	 Name: Excitatory
+p0_C12	 <---> p4/6_C6	 Total Correlation: 1.8313037527231395	 Name: 
+p0_C12	 <---> p4/6_C5	 Total Correlation: 2.434961916913459	 Name: 
+p0_C12	 <---> p4/6_C8	 Total Correlation: 4.277970989052905	 Name: 
+
+
+p0_C13
+
+p0_C13	 <---> p4/6_C9	 Total Correlation: 0.23297501618004343	 Name: Inhibitory
+p0_C13	 <---> p4/6_C0	 Total Correlation: 0.2456516166353828	 Name: Inhibitory
+p0_C13	 <---> p4/6_C2	 Total Correlation: 0.2772945432063271	 Name: Inhibitory
+p0_C13	 <---> p4/6_C4	 Total Correlation: 0.32555061642502003	 Name: Inhibitory
+p0_C13	 <---> p4/6_C5	 Total Correlation: 0.33978975842987647	 Name: Inhibitory
+p0_C13	 <---> p4/6_C6	 Total Correlation: 0.5820368402122191	 Name: Inhibitory
+p0_C13	 <---> p4/6_C1	 Total Correlation: 0.7901399889183496	 Name: 
+p0_C13	 <---> p4/6_C8	 Total Correlation: 0.9851090800159329	 Name: Inhibitory
+p0_C13	 <---> p4/6_C7	 Total Correlation: 1.3848198499846953	 Name: 
+p0_C13	 <---> p4/6_C3	 Total Correlation: 2.137499856597097	 Name: 
+p0_C13	 <---> p4/6_C10	 Total Correlation: 12.614861159576357	 Name: 
+
+
+p0_C14
+
+p0_C14	 <---> p4/6_C9	 Total Correlation: 0.7188601231411436	 Name: 
+p0_C14	 <---> p4/6_C0	 Total Correlation: 0.7353061850112187	 Name: 
+p0_C14	 <---> p4/6_C7	 Total Correlation: 0.8444755010063901	 Name: Excitatory
+p0_C14	 <---> p4/6_C2	 Total Correlation: 0.8637149760464048	 Name: Excitatory
+p0_C14	 <---> p4/6_C4	 Total Correlation: 0.9246828111261534	 Name: 
+p0_C14	 <---> p4/6_C1	 Total Correlation: 0.9251339759115903	 Name: Excitatory
+p0_C14	 <---> p4/6_C3	 Total Correlation: 0.9547601578513834	 Name: Excitatory
+p0_C14	 <---> p4/6_C6	 Total Correlation: 1.1538683098450857	 Name: 
+p0_C14	 <---> p4/6_C10	 Total Correlation: 1.402880644127121	 Name: Excitatory
+p0_C14	 <---> p4/6_C5	 Total Correlation: 1.5202218175754176	 Name: 
+p0_C14	 <---> p4/6_C8	 Total Correlation: 1.5472354438589355	 Name: 

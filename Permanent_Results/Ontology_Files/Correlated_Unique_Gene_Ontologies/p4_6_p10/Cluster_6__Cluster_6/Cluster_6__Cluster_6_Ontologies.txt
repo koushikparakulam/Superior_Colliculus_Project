@@ -1,0 +1,31 @@
+Molecular/Biological/Cellular Ontology Terms: 
+
+GO:0016020      membrane                                                                                                                 ['Stxbp6', 'Cadm2']                     
+GO:0030424      axon                                                                                                                     ['Cadm2']                               
+GO:0007155      cell adhesion                                                                                                            ['Cadm2']                               
+GO:0005515      protein binding                                                                                                          ['Cadm2']                               
+GO:0007420      brain development                                                                                                        ['Cadm2']                               
+GO:0042995      cell projection                                                                                                          ['Cadm2']                               
+R-MMU-418990    Adherens junctions interactions                                                                                          ['Cadm2']                               
+GO:0045202      synapse                                                                                                                  ['Cadm2']                               
+R-MMU-421270    Cell-cell junction organization                                                                                          ['Cadm2']                               
+GO:0032809      neuronal cell body membrane                                                                                              ['Cadm2']                               
+GO:0007156      homophilic cell adhesion via plasma membrane adhesion molecules                                                          ['Cadm2']                               
+GO:0005886      plasma membrane                                                                                                          ['Cadm2']                               
+R-MMU-446728    Cell junction organization                                                                                               ['Cadm2']                               
+GO:0035493      SNARE complex assembly                                                                                                   ['Stxbp6']                              
+GO:0005737      cytoplasm                                                                                                                ['Stxbp6']                              
+R-MMU-1500931   Cell-Cell communication                                                                                                  ['Cadm2']                               
+GO:0035542      regulation of SNARE complex assembly                                                                                     ['Stxbp6']                              
+
+
+Protein Ontology Terms: 
+
+NO Protein ONTOLOGY TERMS
+
+
+Pathway Ontology Terms: 
+
+NO Pathway ONTOLOGY TERMS
+
+

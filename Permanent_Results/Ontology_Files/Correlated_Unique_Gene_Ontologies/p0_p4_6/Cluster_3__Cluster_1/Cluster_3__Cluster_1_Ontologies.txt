@@ -1,0 +1,48 @@
+Molecular/Biological/Cellular Ontology Terms: 
+
+GO:0031016      pancreas development                                                                                                     ['Onecut1']                             
+GO:0007492      endoderm development                                                                                                     ['Onecut1']                             
+GO:0002064      epithelial cell development                                                                                              ['Onecut1']                             
+GO:0035883      enteroendocrine cell differentiation                                                                                     ['Onecut1']                             
+GO:0006006      glucose metabolic process                                                                                                ['Onecut1']                             
+GO:0003700      DNA-binding transcription factor activity                                                                                ['Onecut1']                             
+GO:0003309      type B pancreatic cell differentiation                                                                                   ['Onecut1']                             
+GO:0007179      transforming growth factor beta receptor signaling pathway                                                               ['Onecut1']                             
+GO:0030512      negative regulation of transforming growth factor beta receptor signaling pathway                                        ['Onecut1']                             
+GO:0005654      nucleoplasm                                                                                                              ['Onecut1']                             
+GO:0016020      membrane                                                                                                                 ['Onecut1']                             
+GO:0000981      DNA-binding transcription factor activity, RNA polymerase II-specific                                                    ['Onecut1']                             
+GO:0000978      RNA polymerase II cis-regulatory region sequence-specific DNA binding                                                    ['Onecut1']                             
+GO:0030335      positive regulation of cell migration                                                                                    ['Onecut1']                             
+GO:0003682      chromatin binding                                                                                                        ['Onecut1']                             
+GO:0045165      cell fate commitment                                                                                                     ['Onecut1']                             
+GO:0007219      Notch signaling pathway                                                                                                  ['Onecut1']                             
+GO:0009653      anatomical structure morphogenesis                                                                                       ['Onecut1']                             
+GO:0006357      regulation of transcription by RNA polymerase II                                                                         ['Onecut1']                             
+GO:0001952      regulation of cell-matrix adhesion                                                                                       ['Onecut1']                             
+GO:0060271      cilium assembly                                                                                                          ['Onecut1']                             
+GO:0016477      cell migration                                                                                                           ['Onecut1']                             
+GO:0003677      DNA binding                                                                                                              ['Onecut1']                             
+GO:1990837      sequence-specific double-stranded DNA binding                                                                            ['Onecut1']                             
+GO:0005634      nucleus                                                                                                                  ['Onecut1']                             
+GO:0045944      positive regulation of transcription by RNA polymerase II                                                                ['Onecut1']                             
+GO:0048536      spleen development                                                                                                       ['Onecut1']                             
+GO:0003311      pancreatic D cell differentiation                                                                                        ['Onecut1']                             
+GO:0006366      transcription by RNA polymerase II                                                                                       ['Onecut1']                             
+GO:0001889      liver development                                                                                                        ['Onecut1']                             
+GO:0031018      endocrine pancreas development                                                                                           ['Onecut1']                             
+GO:0030183      B cell differentiation                                                                                                   ['Onecut1']                             
+GO:0001228      DNA-binding transcription activator activity, RNA polymerase II-specific                                                 ['Onecut1']                             
+GO:0003310      pancreatic A cell differentiation                                                                                        ['Onecut1']                             
+
+
+Protein Ontology Terms: 
+
+PC00119        homeodomain transcription factor                                                                                         ['Onecut1']                             
+
+
+Pathway Ontology Terms: 
+
+NO Pathway ONTOLOGY TERMS
+
+

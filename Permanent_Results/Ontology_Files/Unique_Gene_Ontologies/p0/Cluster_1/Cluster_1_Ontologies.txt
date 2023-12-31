@@ -1,0 +1,42 @@
+Molecular/Biological/Cellular Ontology Terms: 
+
+GO:0005515      protein binding                                                                                                          ['Dmbx1']                               
+GO:0043565      sequence-specific DNA binding                                                                                            ['Dmbx1']                               
+GO:0003677      DNA binding                                                                                                              ['Dmbx1']                               
+GO:1990837      sequence-specific double-stranded DNA binding                                                                            ['Dmbx1']                               
+GO:0042802      identical protein binding                                                                                                ['Dmbx1']                               
+GO:0062023      collagen-containing extracellular matrix                                                                                 ['Fibcd1']                              
+GO:0003700      DNA-binding transcription factor activity                                                                                ['Dmbx1']                               
+GO:0008061      chitin binding                                                                                                           ['Fibcd1']                              
+GO:0048589      developmental growth                                                                                                     ['Dmbx1']                               
+GO:0008344      adult locomotory behavior                                                                                                ['Dmbx1']                               
+GO:0006357      regulation of transcription by RNA polymerase II                                                                         ['Dmbx1']                               
+GO:0046872      metal ion binding                                                                                                        ['Fibcd1']                              
+GO:0000981      DNA-binding transcription factor activity, RNA polymerase II-specific                                                    ['Dmbx1']                               
+GO:0007275      multicellular organism development                                                                                       ['Dmbx1']                               
+GO:0005634      nucleus                                                                                                                  ['Dmbx1']                               
+GO:0005667      transcription regulator complex                                                                                          ['Dmbx1']                               
+GO:0006355      regulation of DNA-templated transcription                                                                                ['Dmbx1']                               
+GO:0008343      adult feeding behavior                                                                                                   ['Dmbx1']                               
+GO:0000977      RNA polymerase II transcription regulatory region sequence-specific DNA binding                                          ['Dmbx1']                               
+GO:0006366      transcription by RNA polymerase II                                                                                       ['Dmbx1']                               
+GO:0001227      DNA-binding transcription repressor activity, RNA polymerase II-specific                                                 ['Dmbx1']                               
+GO:0045892      negative regulation of DNA-templated transcription                                                                       ['Dmbx1']                               
+GO:0000122      negative regulation of transcription by RNA polymerase II                                                                ['Dmbx1']                               
+GO:0007420      brain development                                                                                                        ['Dmbx1']                               
+GO:0007417      central nervous system development                                                                                       ['Dmbx1']                               
+GO:0005615      extracellular space                                                                                                      ['Fibcd1']                              
+GO:0016020      membrane                                                                                                                 ['Fibcd1']                              
+
+
+Protein Ontology Terms: 
+
+PC00119        homeodomain transcription factor                                                                                         ['Dmbx1']                               
+PC00207        intercellular signal molecule                                                                                            ['Fibcd1']                              
+
+
+Pathway Ontology Terms: 
+
+NO Pathway ONTOLOGY TERMS
+
+

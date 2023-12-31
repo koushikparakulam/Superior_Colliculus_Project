@@ -1,0 +1,42 @@
+Molecular/Biological/Cellular Ontology Terms: 
+
+GO:0009410      response to xenobiotic stimulus                                                                                          ['Emx2']                                
+GO:0021542      dentate gyrus development                                                                                                ['Emx2']                                
+GO:0006355      regulation of DNA-templated transcription                                                                                ['Emx2']                                
+GO:0030182      neuron differentiation                                                                                                   ['Emx2']                                
+GO:0007417      central nervous system development                                                                                       ['Emx2']                                
+GO:0046872      metal ion binding                                                                                                        ['Fibcd1']                              
+GO:0007275      multicellular organism development                                                                                       ['Emx2']                                
+GO:0016020      membrane                                                                                                                 ['Fibcd1']                              
+GO:0010468      regulation of gene expression                                                                                            ['Emx2']                                
+GO:0007420      brain development                                                                                                        ['Emx2']                                
+GO:0000981      DNA-binding transcription factor activity, RNA polymerase II-specific                                                    ['Emx2']                                
+GO:0000978      RNA polymerase II cis-regulatory region sequence-specific DNA binding                                                    ['Emx2']                                
+GO:0021987      cerebral cortex development                                                                                              ['Emx2']                                
+GO:0072197      ureter morphogenesis                                                                                                     ['Emx2']                                
+GO:0009952      anterior/posterior pattern specification                                                                                 ['Emx2']                                
+GO:0021796      cerebral cortex regionalization                                                                                          ['Emx2']                                
+GO:0062023      collagen-containing extracellular matrix                                                                                 ['Fibcd1']                              
+GO:0006357      regulation of transcription by RNA polymerase II                                                                         ['Emx2']                                
+GO:0030900      forebrain development                                                                                                    ['Emx2']                                
+GO:0003677      DNA binding                                                                                                              ['Emx2']                                
+GO:1990837      sequence-specific double-stranded DNA binding                                                                            ['Emx2']                                
+GO:0008061      chitin binding                                                                                                           ['Fibcd1']                              
+GO:0005634      nucleus                                                                                                                  ['Emx2']                                
+GO:0021885      forebrain cell migration                                                                                                 ['Emx2']                                
+GO:0021846      cell proliferation in forebrain                                                                                          ['Emx2']                                
+GO:0001764      neuron migration                                                                                                         ['Emx2']                                
+GO:0005615      extracellular space                                                                                                      ['Fibcd1']                              
+
+
+Protein Ontology Terms: 
+
+PC00119        homeodomain transcription factor                                                                                         ['Emx2']                                
+PC00207        intercellular signal molecule                                                                                            ['Fibcd1']                              
+
+
+Pathway Ontology Terms: 
+
+NO Pathway ONTOLOGY TERMS
+
+

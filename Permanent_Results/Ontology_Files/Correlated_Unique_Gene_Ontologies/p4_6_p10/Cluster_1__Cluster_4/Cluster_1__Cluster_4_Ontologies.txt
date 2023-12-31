@@ -1,0 +1,31 @@
+Molecular/Biological/Cellular Ontology Terms: 
+
+GO:0003674      molecular_function                                                                                                       ['Zcchc7']                              
+GO:0071036      nuclear polyadenylation-dependent snoRNA catabolic process                                                               ['Zcchc7']                              
+GO:0008150      biological_process                                                                                                       ['Zcchc7']                              
+GO:0071037      nuclear polyadenylation-dependent snRNA catabolic process                                                                ['Zcchc7']                              
+GO:0005829      cytosol                                                                                                                  ['Zcchc7']                              
+GO:0043629      ncRNA polyadenylation                                                                                                    ['Zcchc7']                              
+GO:0008270      zinc ion binding                                                                                                         ['Zcchc7']                              
+GO:0071035      nuclear polyadenylation-dependent rRNA catabolic process                                                                 ['Zcchc7']                              
+GO:0031499      TRAMP complex                                                                                                            ['Zcchc7']                              
+GO:0003676      nucleic acid binding                                                                                                     ['Zcchc7']                              
+GO:0005730      nucleolus                                                                                                                ['Zcchc7']                              
+GO:0003723      RNA binding                                                                                                              ['Zcchc7']                              
+GO:0071039      nuclear polyadenylation-dependent CUT catabolic process                                                                  ['Zcchc7']                              
+GO:0046872      metal ion binding                                                                                                        ['Zcchc7']                              
+GO:0071038      nuclear polyadenylation-dependent tRNA catabolic process                                                                 ['Zcchc7']                              
+GO:0005634      nucleus                                                                                                                  ['Zcchc7']                              
+GO:0071031      nuclear mRNA surveillance of mRNA 3'-end processing                                                                      ['Zcchc7']                              
+
+
+Protein Ontology Terms: 
+
+NO Protein ONTOLOGY TERMS
+
+
+Pathway Ontology Terms: 
+
+NO Pathway ONTOLOGY TERMS
+
+

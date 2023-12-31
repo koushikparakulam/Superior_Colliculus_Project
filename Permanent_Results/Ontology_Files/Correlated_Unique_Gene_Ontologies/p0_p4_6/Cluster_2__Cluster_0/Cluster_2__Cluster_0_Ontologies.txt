@@ -1,0 +1,50 @@
+Molecular/Biological/Cellular Ontology Terms: 
+
+GO:0007417      central nervous system development                                                                                       ['Zic2']                                
+GO:0045893      positive regulation of DNA-templated transcription                                                                       ['Zic2']                                
+GO:0046872      metal ion binding                                                                                                        ['Zic2']                                
+GO:0003700      DNA-binding transcription factor activity                                                                                ['Zic2']                                
+GO:0005654      nucleoplasm                                                                                                              ['Zic2']                                
+GO:0007275      multicellular organism development                                                                                       ['Zic2']                                
+GO:0030154      cell differentiation                                                                                                     ['Zic2']                                
+GO:0001843      neural tube closure                                                                                                      ['Zic2']                                
+GO:0048339      paraxial mesoderm development                                                                                            ['Zic2']                                
+GO:0016020      membrane                                                                                                                 ['Zic2']                                
+GO:0000977      RNA polymerase II transcription regulatory region sequence-specific DNA binding                                          ['Zic2']                                
+GO:0000981      DNA-binding transcription factor activity, RNA polymerase II-specific                                                    ['Zic2']                                
+GO:0005515      protein binding                                                                                                          ['Zic2']                                
+GO:0000978      RNA polymerase II cis-regulatory region sequence-specific DNA binding                                                    ['Zic2']                                
+GO:0044782      cilium organization                                                                                                      ['Zic2']                                
+GO:0051091      positive regulation of DNA-binding transcription factor activity                                                         ['Zic2']                                
+GO:0048318      axial mesoderm development                                                                                               ['Zic2']                                
+GO:0007601      visual perception                                                                                                        ['Zic2']                                
+GO:1900224      positive regulation of nodal signaling pathway involved in determination of lateral mesoderm left/right asymmetry        ['Zic2']                                
+GO:0010467      gene expression                                                                                                          ['Zic2']                                
+GO:0031490      chromatin DNA binding                                                                                                    ['Zic2']                                
+GO:0007399      nervous system development                                                                                               ['Zic2']                                
+GO:0006357      regulation of transcription by RNA polymerase II                                                                         ['Zic2']                                
+GO:0031290      retinal ganglion cell axon guidance                                                                                      ['Zic2']                                
+GO:0016604      nuclear body                                                                                                             ['Zic2']                                
+GO:0005737      cytoplasm                                                                                                                ['Zic2']                                
+GO:0003677      DNA binding                                                                                                              ['Zic2']                                
+GO:0045944      positive regulation of transcription by RNA polymerase II                                                                ['Zic2']                                
+GO:0005634      nucleus                                                                                                                  ['Zic2']                                
+GO:0014033      neural crest cell differentiation                                                                                        ['Zic2']                                
+GO:0001840      neural plate development                                                                                                 ['Zic2']                                
+GO:0006366      transcription by RNA polymerase II                                                                                       ['Zic2']                                
+GO:0045892      negative regulation of DNA-templated transcription                                                                       ['Zic2']                                
+GO:0001228      DNA-binding transcription activator activity, RNA polymerase II-specific                                                 ['Zic2']                                
+GO:0048066      developmental pigmentation                                                                                               ['Zic2']                                
+GO:0035283      central nervous system segmentation                                                                                      ['Zic2']                                
+
+
+Protein Ontology Terms: 
+
+PC00248        C2H2 zinc finger transcription factor                                                                                    ['Zic2']                                
+
+
+Pathway Ontology Terms: 
+
+NO Pathway ONTOLOGY TERMS
+
+

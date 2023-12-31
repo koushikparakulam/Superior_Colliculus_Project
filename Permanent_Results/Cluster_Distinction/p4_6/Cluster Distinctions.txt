@@ -1,0 +1,21 @@
+p4_6:
+
+True Distinct Clusters: 
+
+Cluster: E1
+Cluster: E2
+Cluster: I1
+Cluster: I2
+Cluster: I3
+
+
+Relative Distinct Clusters: 
+
+Cluster: M1
+
+
+Non Distinct Clusters: 
+
+Cluster: I4
+
+

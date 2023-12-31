@@ -1,0 +1,26 @@
+p0:
+
+Excitatory Percentage: 44.65
+Inhibitory Percentage: 39.0
+Mix Percentage: 16.35
+
+
+p4/6:
+
+Excitatory Percentage: 22.22
+Inhibitory Percentage: 55.83
+Mix Percentage: 21.96
+
+
+p10:
+
+Excitatory Percentage: 22.09
+Inhibitory Percentage: 57.0
+Mix Percentage: 20.91
+
+
+p15:
+
+Excitatory Percentage: 56.68
+Inhibitory Percentage: 34.28
+Mix Percentage: 9.04

@@ -1,0 +1,21 @@
+Molecular/Biological/Cellular Ontology Terms: 
+
+GO:0005123      death receptor binding                                                                                                   ['Nsmaf']                               
+GO:0043065      positive regulation of apoptotic process                                                                                 ['Nsmaf']                               
+R-MMU-75893     TNF signaling                                                                                                            ['Nsmaf']                               
+R-MMU-162582    Signal Transduction                                                                                                      ['Nsmaf']                               
+GO:0016230      sphingomyelin phosphodiesterase activator activity                                                                       ['Nsmaf']                               
+R-MMU-5626978   TNFR1-mediated ceramide production                                                                                       ['Nsmaf']                               
+R-MMU-73887     Death Receptor Signalling                                                                                                ['Nsmaf']                               
+
+
+Protein Ontology Terms: 
+
+PC00226        scaffold/adaptor protein                                                                                                 ['Nsmaf']                               
+
+
+Pathway Ontology Terms: 
+
+NO Pathway ONTOLOGY TERMS
+
+
