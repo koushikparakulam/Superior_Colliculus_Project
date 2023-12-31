@@ -1,0 +1,416 @@
+{
+  "fileVersions": {
+    "inMeta": {
+      "fname": "/home/kparakul/cellBrowser/neuronal/p15_Neuronal_Results/meta.tsv",
+      "md5": "405a3473bc",
+      "size": 331862,
+      "mtime": "2023-05-16 08:58:01"
+    },
+    "outMeta": {
+      "fname": "/home/kparakul/cb-output/cbp15_neuronal/p15_Neuronal_Results/meta.tsv",
+      "md5": "36fa851557",
+      "size": 264760,
+      "mtime": "2023-05-16 09:04:25"
+    },
+    "inMatrix": {
+      "fname": "/home/kparakul/cellBrowser/neuronal/p15_Neuronal_Results/exprMatrix.tsv.gz",
+      "md5": "2a90822b73",
+      "size": 17762199,
+      "mtime": "2023-05-16 08:57:57"
+    },
+    "outMatrix": {
+      "fname": "/home/kparakul/cb-output/cbp15_neuronal/p15_Neuronal_Results/exprMatrix.tsv.gz",
+      "md5": "2a90822b73",
+      "size": 17762199,
+      "mtime": "2023-05-16 09:04:25"
+    },
+    "desc": {
+      "fname": "desc.conf",
+      "md5": "83baf6a2a8",
+      "size": 2614,
+      "mtime": "2023-05-16 08:58:02"
+    },
+    "conf": {
+      "fname": "/home/kparakul/cellBrowser/neuronal/p15_Neuronal_Results/cellbrowser.conf",
+      "md5": "666808e79e",
+      "size": 849,
+      "mtime": "2023-05-16 09:04:12"
+    }
+  },
+  "sampleCount": 3352,
+  "matrixWasFiltered": false,
+  "metaFields": [
+    {
+      "name": "cellId",
+      "label": "cellId",
+      "type": "uniqueString",
+      "maxSize": 18,
+      "diffValCount": 3352,
+      "md5": "ae3c81bc53"
+    },
+    {
+      "name": "ExpressedGenes",
+      "label": "Expressed Genes",
+      "arrType": "float32",
+      "type": "int",
+      "diffValCount": 1440,
+      "md5": "ddadc25ba3"
+    },
+    {
+      "name": "n_genes_by_counts",
+      "label": "n_genes_by_counts",
+      "arrType": "float32",
+      "type": "int",
+      "diffValCount": 1435,
+      "md5": "aad92673d4"
+    },
+    {
+      "name": "total_counts",
+      "label": "total_counts",
+      "arrType": "float32",
+      "type": "float",
+      "diffValCount": 1911,
+      "md5": "f2481d48b2"
+    },
+    {
+      "name": "doublet_scores",
+      "label": "doublet_scores",
+      "arrType": "float32",
+      "type": "float",
+      "diffValCount": 179,
+      "md5": "f316648b8e"
+    },
+    {
+      "name": "condition",
+      "label": "condition",
+      "type": "enum",
+      "valCounts": [
+        [
+          "p15_2",
+          2171
+        ],
+        [
+          "p15_1",
+          1181
+        ]
+      ],
+      "arrType": "Uint8",
+      "diffValCount": 2,
+      "md5": "6fe6f507a5"
+    },
+    {
+      "name": "leiden",
+      "label": "leiden",
+      "type": "enum",
+      "valCounts": [
+        [
+          "0",
+          503
+        ],
+        [
+          "1",
+          466
+        ],
+        [
+          "2",
+          346
+        ],
+        [
+          "3",
+          306
+        ],
+        [
+          "4",
+          301
+        ],
+        [
+          "5",
+          288
+        ],
+        [
+          "6",
+          249
+        ],
+        [
+          "7",
+          180
+        ],
+        [
+          "8",
+          161
+        ],
+        [
+          "9",
+          161
+        ],
+        [
+          "10",
+          157
+        ],
+        [
+          "11",
+          103
+        ],
+        [
+          "12",
+          76
+        ],
+        [
+          "13",
+          55
+        ]
+      ],
+      "arrType": "Uint8",
+      "diffValCount": 14,
+      "md5": "12d6dd6205"
+    },
+    {
+      "name": "cluster_labels",
+      "label": "cluster_labels",
+      "type": "enum",
+      "valCounts": [
+        [
+          "C0_p15_neuronal",
+          503
+        ],
+        [
+          "C1_p15_neuronal",
+          466
+        ],
+        [
+          "C2_p15_neuronal",
+          346
+        ],
+        [
+          "C3_p15_neuronal",
+          306
+        ],
+        [
+          "C4_p15_neuronal",
+          301
+        ],
+        [
+          "C5_p15_neuronal",
+          288
+        ],
+        [
+          "C6_p15_neuronal",
+          249
+        ],
+        [
+          "C7_p15_neuronal",
+          180
+        ],
+        [
+          "C8_p15_neuronal",
+          161
+        ],
+        [
+          "C9_p15_neuronal",
+          161
+        ],
+        [
+          "C10_p15_neuronal",
+          157
+        ],
+        [
+          "C11_p15_neuronal",
+          103
+        ],
+        [
+          "C12_p15_neuronal",
+          76
+        ],
+        [
+          "C13_p15_neuronal",
+          55
+        ]
+      ],
+      "arrType": "Uint8",
+      "diffValCount": 14,
+      "md5": "b7dd3f538a"
+    }
+  ],
+  "matrixArrType": "Float32",
+  "labelField": "leiden",
+  "coords": [
+    {
+      "name": "coords_0",
+      "shortLabel": "UMAP",
+      "md5": "73e9addf0f",
+      "minX": 0,
+      "maxX": 65534,
+      "minY": 0,
+      "maxY": 65534,
+      "type": "Uint16",
+      "textFname": "UMAP.coords.tsv.gz",
+      "labelMd5": "d41d8cd98f"
+    },
+    {
+      "name": "coords_1",
+      "shortLabel": "pca",
+      "md5": "88b3eb22e9",
+      "minX": 0,
+      "maxX": 65535,
+      "minY": 0,
+      "maxY": 65535,
+      "type": "Uint16",
+      "textFname": "pca.coords.tsv.gz",
+      "labelMd5": "d41d8cd98f"
+    }
+  ],
+  "hasFiles": [
+    "datasetDesc"
+  ],
+  "topMarkers": {
+    "0": [
+      "Slc32a1",
+      "Nrxn3",
+      "Gad2",
+      "Gata3",
+      "Snhg11"
+    ],
+    "1": [
+      "Snhg11",
+      "Ebf1",
+      "AC149090.1",
+      "Meg3",
+      "Malat1"
+    ],
+    "2": [
+      "Slc17a6",
+      "Tmem130",
+      "Atp1b1",
+      "Rtn3",
+      "Rtn1"
+    ],
+    "3": [
+      "Ppia",
+      "Tmsb4x",
+      "Actb",
+      "Stmn1",
+      "Rps14"
+    ],
+    "4": [
+      "Elmod1",
+      "Gria2",
+      "Scn3a",
+      "C130073E24Rik",
+      "Kcnd3"
+    ],
+    "5": [
+      "Slc6a1",
+      "Meis2",
+      "Nrxn3",
+      "Syt1",
+      "Gad1"
+    ],
+    "6": [
+      "Ubb",
+      "Ywhae",
+      "H3f3b",
+      "Hsp90ab1",
+      "Hmgb1"
+    ],
+    "7": [
+      "Calm2",
+      "Ywhaz",
+      "Stmn1",
+      "Vsnl1",
+      "Hsp90ab1"
+    ],
+    "8": [
+      "Nts",
+      "mt-Nd4",
+      "mt-Co1",
+      "mt-Nd1",
+      "Atp1a3"
+    ]
+  },
+  "markers": [
+    {
+      "name": "markers_0",
+      "shortLabel": "Cluster Markers"
+    }
+  ],
+  "quickGenes": [
+    [
+      "Slc32a1",
+      "0"
+    ],
+    [
+      "Nrxn3",
+      "0"
+    ],
+    [
+      "Snhg11",
+      "1"
+    ],
+    [
+      "Ebf1",
+      "1"
+    ],
+    [
+      "Slc17a6",
+      "2"
+    ],
+    [
+      "Tmem130",
+      "2"
+    ],
+    [
+      "Ppia",
+      "3"
+    ],
+    [
+      "Tmsb4x",
+      "3"
+    ],
+    [
+      "Elmod1",
+      "4"
+    ],
+    [
+      "Gria2",
+      "4"
+    ],
+    [
+      "Slc6a1",
+      "5"
+    ],
+    [
+      "Meis2",
+      "5"
+    ],
+    [
+      "Ubb",
+      "6"
+    ],
+    [
+      "Ywhae",
+      "6"
+    ],
+    [
+      "Calm2",
+      "7"
+    ],
+    [
+      "Ywhaz",
+      "7"
+    ],
+    [
+      "Nts",
+      "8"
+    ],
+    [
+      "mt-Nd4",
+      "8"
+    ]
+  ],
+  "name": "p15_Neuronal_Results",
+  "shortLabel": "p15_Neuronal_Results",
+  "defColorField": "leiden",
+  "firstBuildTime": "2023-05-16T02:04:39.174076",
+  "lastBuildTime": "2023-05-16T02:04:39.174115",
+  "md5": "ba0202338d"
+}
