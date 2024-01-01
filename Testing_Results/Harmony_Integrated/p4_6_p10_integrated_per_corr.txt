@@ -1,0 +1,215 @@
+p4/6 vs p10 Clusteral Relationship (>10% of cells)
+
+p10 Cluster E1:
+
+E1_p10_neuronal: 48.28%    <---->    M1_p4/6_neuronal: 79.35%   Integrated Cluster: 5 2
+E1_p10_neuronal: 48.28%    <---->    M1_p4/6_neuronal: 79.35%   Integrated Cluster: 2 5
+E1_p10_neuronal: 51.72%    <---->    E2_p4/6_neuronal: 67.67%   Integrated Cluster: 4
+E1_p10_neuronal: 51.72%    <---->    E1_p4/6_neuronal: 6.31%   Integrated Cluster: 4
+E1_p10_neuronal: 51.72%    <---->    M1_p4/6_neuronal: 4.72%   Integrated Cluster: 4
+E1_p10_neuronal: 24.14%    <---->    E1_p4/6_neuronal: 2.70%   Integrated Cluster: 2
+E1_p10_neuronal: 24.14%    <---->    I3_p4/6_neuronal: 1.95%   Integrated Cluster: 2
+E1_p10_neuronal: 24.14%    <---->    I4_p4/6_neuronal: 1.89%   Integrated Cluster: 5
+E1_p10_neuronal: 24.14%    <---->    I2_p4/6_neuronal: 1.82%   Integrated Cluster: 5
+E1_p10_neuronal: 24.14%    <---->    I4_p4/6_neuronal: 1.42%   Integrated Cluster: 2
+E1_p10_neuronal: 24.14%    <---->    E1_p4/6_neuronal: 0.90%   Integrated Cluster: 5
+
+
+p4/6 Cluster E1:
+
+E1_p4/6_neuronal: 86.49%    <---->    E2_p10_neuronal: 60.00%   Integrated Cluster: 7
+E1_p4/6_neuronal: 86.49%    <---->    I4_p10_neuronal: 0.68%   Integrated Cluster: 7
+E1_p4/6_neuronal: 3.60%    <---->    I4_p10_neuronal: 67.81%   Integrated Cluster: 0
+E1_p4/6_neuronal: 2.70%    <---->    M1_p10_neuronal: 64.79%   Integrated Cluster: 2
+E1_p4/6_neuronal: 6.31%    <---->    E1_p10_neuronal: 51.72%   Integrated Cluster: 4
+E1_p4/6_neuronal: 3.60%    <---->    E3_p10_neuronal: 45.24%   Integrated Cluster: 0
+E1_p4/6_neuronal: 6.31%    <---->    E2_p10_neuronal: 40.00%   Integrated Cluster: 4
+E1_p4/6_neuronal: 3.60%    <---->    I1_p10_neuronal: 26.58%   Integrated Cluster: 0
+E1_p4/6_neuronal: 2.70%    <---->    E1_p10_neuronal: 24.14%   Integrated Cluster: 2
+E1_p4/6_neuronal: 0.90%    <---->    E1_p10_neuronal: 24.14%   Integrated Cluster: 5
+E1_p4/6_neuronal: 0.90%    <---->    M1_p10_neuronal: 23.24%   Integrated Cluster: 5
+
+
+p10 Cluster E2:
+
+E2_p10_neuronal: 60.00%    <---->    E1_p4/6_neuronal: 86.49%   Integrated Cluster: 7
+E2_p10_neuronal: 40.00%    <---->    E2_p4/6_neuronal: 67.67%   Integrated Cluster: 4
+E2_p10_neuronal: 60.00%    <---->    E2_p4/6_neuronal: 1.72%   Integrated Cluster: 7
+E2_p10_neuronal: 40.00%    <---->    E1_p4/6_neuronal: 6.31%   Integrated Cluster: 4
+E2_p10_neuronal: 40.00%    <---->    M1_p4/6_neuronal: 4.72%   Integrated Cluster: 4
+
+
+p4/6 Cluster E2:
+
+E2_p4/6_neuronal: 95.69%    <---->    E3_p10_neuronal: 57.14%   Integrated Cluster: 0 4
+E2_p4/6_neuronal: 95.69%    <---->    E3_p10_neuronal: 57.14%   Integrated Cluster: 4 0
+E2_p4/6_neuronal: 67.67%    <---->    E1_p10_neuronal: 51.72%   Integrated Cluster: 4
+E2_p4/6_neuronal: 67.67%    <---->    E2_p10_neuronal: 40.00%   Integrated Cluster: 4
+E2_p4/6_neuronal: 28.02%    <---->    I4_p10_neuronal: 67.81%   Integrated Cluster: 0
+E2_p4/6_neuronal: 1.72%    <---->    I3_p10_neuronal: 84.00%   Integrated Cluster: 3
+E2_p4/6_neuronal: 67.67%    <---->    I4_p10_neuronal: 4.11%   Integrated Cluster: 4
+E2_p4/6_neuronal: 1.72%    <---->    E2_p10_neuronal: 60.00%   Integrated Cluster: 7
+E2_p4/6_neuronal: 28.02%    <---->    I1_p10_neuronal: 26.58%   Integrated Cluster: 0
+E2_p4/6_neuronal: 28.02%    <---->    M1_p10_neuronal: 2.11%   Integrated Cluster: 0
+E2_p4/6_neuronal: 28.02%    <---->    I3_p10_neuronal: 2.00%   Integrated Cluster: 0
+
+
+p10 Cluster E3:
+
+E3_p10_neuronal: 57.14%    <---->    E2_p4/6_neuronal: 95.69%   Integrated Cluster: 4 0
+E3_p10_neuronal: 57.14%    <---->    E2_p4/6_neuronal: 95.69%   Integrated Cluster: 0 4
+E3_p10_neuronal: 73.81%    <---->    I4_p4/6_neuronal: 76.89%   Integrated Cluster: 6 0
+E3_p10_neuronal: 73.81%    <---->    I4_p4/6_neuronal: 76.89%   Integrated Cluster: 0 6
+E3_p10_neuronal: 28.57%    <---->    I1_p4/6_neuronal: 85.25%   Integrated Cluster: 6
+E3_p10_neuronal: 2.38%    <---->    I3_p4/6_neuronal: 72.68%   Integrated Cluster: 3
+E3_p10_neuronal: 45.24%    <---->    I3_p4/6_neuronal: 21.95%   Integrated Cluster: 0
+E3_p10_neuronal: 4.76%    <---->    M1_p4/6_neuronal: 57.23%   Integrated Cluster: 2
+E3_p10_neuronal: 45.24%    <---->    I2_p4/6_neuronal: 14.06%   Integrated Cluster: 0
+E3_p10_neuronal: 45.24%    <---->    M1_p4/6_neuronal: 8.55%   Integrated Cluster: 0
+E3_p10_neuronal: 45.24%    <---->    E1_p4/6_neuronal: 3.60%   Integrated Cluster: 0
+
+
+p10 Cluster I1:
+
+I1_p10_neuronal: 75.95%    <---->    I2_p4/6_neuronal: 83.33%   Integrated Cluster: 1 0
+I1_p10_neuronal: 75.95%    <---->    I2_p4/6_neuronal: 83.33%   Integrated Cluster: 0 1
+I1_p10_neuronal: 75.95%    <---->    I4_p4/6_neuronal: 75.47%   Integrated Cluster: 0 1
+I1_p10_neuronal: 75.95%    <---->    I4_p4/6_neuronal: 75.47%   Integrated Cluster: 1 0
+I1_p10_neuronal: 69.62%    <---->    I2_p4/6_neuronal: 79.95%   Integrated Cluster: 1 3
+I1_p10_neuronal: 69.62%    <---->    I2_p4/6_neuronal: 79.95%   Integrated Cluster: 3 1
+I1_p10_neuronal: 46.84%    <---->    I3_p4/6_neuronal: 94.63%   Integrated Cluster: 0 3
+I1_p10_neuronal: 46.84%    <---->    I3_p4/6_neuronal: 94.63%   Integrated Cluster: 3 0
+I1_p10_neuronal: 1.27%    <---->    I1_p4/6_neuronal: 85.25%   Integrated Cluster: 6
+I1_p10_neuronal: 46.84%    <---->    I2_p4/6_neuronal: 24.74%   Integrated Cluster: 0 3
+I1_p10_neuronal: 46.84%    <---->    I2_p4/6_neuronal: 24.74%   Integrated Cluster: 3 0
+
+
+p4/6 Cluster I1:
+
+I1_p4/6_neuronal: 85.25%    <---->    E3_p10_neuronal: 28.57%   Integrated Cluster: 6
+I1_p4/6_neuronal: 8.20%    <---->    I2_p10_neuronal: 100.00%   Integrated Cluster: 1
+I1_p4/6_neuronal: 85.25%    <---->    I3_p10_neuronal: 12.00%   Integrated Cluster: 6
+I1_p4/6_neuronal: 4.92%    <---->    I3_p10_neuronal: 84.00%   Integrated Cluster: 3
+I1_p4/6_neuronal: 85.25%    <---->    I4_p10_neuronal: 3.42%   Integrated Cluster: 6
+I1_p4/6_neuronal: 85.25%    <---->    M1_p10_neuronal: 2.11%   Integrated Cluster: 6
+I1_p4/6_neuronal: 85.25%    <---->    I1_p10_neuronal: 1.27%   Integrated Cluster: 6
+I1_p4/6_neuronal: 1.64%    <---->    I4_p10_neuronal: 67.81%   Integrated Cluster: 0
+I1_p4/6_neuronal: 8.20%    <---->    I1_p10_neuronal: 49.37%   Integrated Cluster: 1
+I1_p4/6_neuronal: 1.64%    <---->    E3_p10_neuronal: 45.24%   Integrated Cluster: 0
+I1_p4/6_neuronal: 1.64%    <---->    I1_p10_neuronal: 26.58%   Integrated Cluster: 0
+
+
+p10 Cluster I2:
+
+I2_p10_neuronal: 100.00%    <---->    I2_p4/6_neuronal: 69.27%   Integrated Cluster: 1
+I2_p10_neuronal: 100.00%    <---->    I4_p4/6_neuronal: 10.85%   Integrated Cluster: 1
+I2_p10_neuronal: 100.00%    <---->    I1_p4/6_neuronal: 8.20%   Integrated Cluster: 1
+I2_p10_neuronal: 100.00%    <---->    I3_p4/6_neuronal: 2.44%   Integrated Cluster: 1
+I2_p10_neuronal: 100.00%    <---->    M1_p4/6_neuronal: 0.59%   Integrated Cluster: 1
+
+
+p4/6 Cluster I2:
+
+I2_p4/6_neuronal: 69.27%    <---->    I2_p10_neuronal: 100.00%   Integrated Cluster: 1
+I2_p4/6_neuronal: 83.33%    <---->    I4_p10_neuronal: 78.08%   Integrated Cluster: 0 1
+I2_p4/6_neuronal: 83.33%    <---->    I4_p10_neuronal: 78.08%   Integrated Cluster: 1 0
+I2_p4/6_neuronal: 83.33%    <---->    I1_p10_neuronal: 75.95%   Integrated Cluster: 1 0
+I2_p4/6_neuronal: 83.33%    <---->    I1_p10_neuronal: 75.95%   Integrated Cluster: 0 1
+I2_p4/6_neuronal: 79.95%    <---->    I1_p10_neuronal: 69.62%   Integrated Cluster: 1 3
+I2_p4/6_neuronal: 79.95%    <---->    I1_p10_neuronal: 69.62%   Integrated Cluster: 3 1
+I2_p4/6_neuronal: 24.74%    <---->    I4_p10_neuronal: 80.14%   Integrated Cluster: 0 3
+I2_p4/6_neuronal: 24.74%    <---->    I4_p10_neuronal: 80.14%   Integrated Cluster: 3 0
+I2_p4/6_neuronal: 79.95%    <---->    I4_p10_neuronal: 22.60%   Integrated Cluster: 3 1
+I2_p4/6_neuronal: 79.95%    <---->    I4_p10_neuronal: 22.60%   Integrated Cluster: 1 3
+
+
+p10 Cluster I3:
+
+I3_p10_neuronal: 84.00%    <---->    I3_p4/6_neuronal: 72.68%   Integrated Cluster: 3
+I3_p10_neuronal: 12.00%    <---->    I1_p4/6_neuronal: 85.25%   Integrated Cluster: 6
+I3_p10_neuronal: 84.00%    <---->    I2_p4/6_neuronal: 10.68%   Integrated Cluster: 3
+I3_p10_neuronal: 84.00%    <---->    I4_p4/6_neuronal: 8.96%   Integrated Cluster: 3
+I3_p10_neuronal: 84.00%    <---->    I1_p4/6_neuronal: 4.92%   Integrated Cluster: 3
+I3_p10_neuronal: 84.00%    <---->    M1_p4/6_neuronal: 2.36%   Integrated Cluster: 3
+I3_p10_neuronal: 84.00%    <---->    E2_p4/6_neuronal: 1.72%   Integrated Cluster: 3
+I3_p10_neuronal: 2.00%    <---->    I2_p4/6_neuronal: 69.27%   Integrated Cluster: 1
+I3_p10_neuronal: 2.00%    <---->    I4_p4/6_neuronal: 64.62%   Integrated Cluster: 0
+I3_p10_neuronal: 2.00%    <---->    E2_p4/6_neuronal: 28.02%   Integrated Cluster: 0
+I3_p10_neuronal: 12.00%    <---->    I4_p4/6_neuronal: 12.26%   Integrated Cluster: 6
+
+
+p4/6 Cluster I3:
+
+I3_p4/6_neuronal: 94.63%    <---->    I4_p10_neuronal: 80.14%   Integrated Cluster: 3 0
+I3_p4/6_neuronal: 94.63%    <---->    I4_p10_neuronal: 80.14%   Integrated Cluster: 0 3
+I3_p4/6_neuronal: 72.68%    <---->    I3_p10_neuronal: 84.00%   Integrated Cluster: 3
+I3_p4/6_neuronal: 94.63%    <---->    I1_p10_neuronal: 46.84%   Integrated Cluster: 3 0
+I3_p4/6_neuronal: 94.63%    <---->    I1_p10_neuronal: 46.84%   Integrated Cluster: 0 3
+I3_p4/6_neuronal: 2.44%    <---->    I2_p10_neuronal: 100.00%   Integrated Cluster: 1
+I3_p4/6_neuronal: 72.68%    <---->    M1_p10_neuronal: 3.52%   Integrated Cluster: 3
+I3_p4/6_neuronal: 72.68%    <---->    E3_p10_neuronal: 2.38%   Integrated Cluster: 3
+I3_p4/6_neuronal: 21.95%    <---->    E3_p10_neuronal: 45.24%   Integrated Cluster: 0
+I3_p4/6_neuronal: 1.95%    <---->    M1_p10_neuronal: 64.79%   Integrated Cluster: 2
+I3_p4/6_neuronal: 2.44%    <---->    I1_p10_neuronal: 49.37%   Integrated Cluster: 1
+
+
+p10 Cluster I4:
+
+I4_p10_neuronal: 80.14%    <---->    I3_p4/6_neuronal: 94.63%   Integrated Cluster: 3 0
+I4_p10_neuronal: 80.14%    <---->    I3_p4/6_neuronal: 94.63%   Integrated Cluster: 0 3
+I4_p10_neuronal: 78.08%    <---->    I2_p4/6_neuronal: 83.33%   Integrated Cluster: 0 1
+I4_p10_neuronal: 78.08%    <---->    I2_p4/6_neuronal: 83.33%   Integrated Cluster: 1 0
+I4_p10_neuronal: 78.08%    <---->    I4_p4/6_neuronal: 75.47%   Integrated Cluster: 0 1
+I4_p10_neuronal: 78.08%    <---->    I4_p4/6_neuronal: 75.47%   Integrated Cluster: 1 0
+I4_p10_neuronal: 80.14%    <---->    I2_p4/6_neuronal: 24.74%   Integrated Cluster: 0 3
+I4_p10_neuronal: 80.14%    <---->    I2_p4/6_neuronal: 24.74%   Integrated Cluster: 3 0
+I4_p10_neuronal: 22.60%    <---->    I2_p4/6_neuronal: 79.95%   Integrated Cluster: 3 1
+I4_p10_neuronal: 22.60%    <---->    I2_p4/6_neuronal: 79.95%   Integrated Cluster: 1 3
+I4_p10_neuronal: 67.81%    <---->    E2_p4/6_neuronal: 28.02%   Integrated Cluster: 0
+
+
+p4/6 Cluster I4:
+
+I4_p4/6_neuronal: 75.47%    <---->    I4_p10_neuronal: 78.08%   Integrated Cluster: 1 0
+I4_p4/6_neuronal: 75.47%    <---->    I4_p10_neuronal: 78.08%   Integrated Cluster: 0 1
+I4_p4/6_neuronal: 75.47%    <---->    I1_p10_neuronal: 75.95%   Integrated Cluster: 0 1
+I4_p4/6_neuronal: 75.47%    <---->    I1_p10_neuronal: 75.95%   Integrated Cluster: 1 0
+I4_p4/6_neuronal: 76.89%    <---->    E3_p10_neuronal: 73.81%   Integrated Cluster: 0 6
+I4_p4/6_neuronal: 76.89%    <---->    E3_p10_neuronal: 73.81%   Integrated Cluster: 6 0
+I4_p4/6_neuronal: 10.85%    <---->    I2_p10_neuronal: 100.00%   Integrated Cluster: 1
+I4_p4/6_neuronal: 8.96%    <---->    I3_p10_neuronal: 84.00%   Integrated Cluster: 3
+I4_p4/6_neuronal: 64.62%    <---->    M1_p10_neuronal: 2.11%   Integrated Cluster: 0
+I4_p4/6_neuronal: 64.62%    <---->    I3_p10_neuronal: 2.00%   Integrated Cluster: 0
+I4_p4/6_neuronal: 1.42%    <---->    M1_p10_neuronal: 64.79%   Integrated Cluster: 2
+
+
+p10 Cluster M1:
+
+M1_p10_neuronal: 88.03%    <---->    M1_p4/6_neuronal: 79.35%   Integrated Cluster: 2 5
+M1_p10_neuronal: 88.03%    <---->    M1_p4/6_neuronal: 79.35%   Integrated Cluster: 5 2
+M1_p10_neuronal: 2.11%    <---->    I1_p4/6_neuronal: 85.25%   Integrated Cluster: 6
+M1_p10_neuronal: 3.52%    <---->    I3_p4/6_neuronal: 72.68%   Integrated Cluster: 3
+M1_p10_neuronal: 4.23%    <---->    I2_p4/6_neuronal: 69.27%   Integrated Cluster: 1
+M1_p10_neuronal: 64.79%    <---->    E1_p4/6_neuronal: 2.70%   Integrated Cluster: 2
+M1_p10_neuronal: 64.79%    <---->    I3_p4/6_neuronal: 1.95%   Integrated Cluster: 2
+M1_p10_neuronal: 2.11%    <---->    I4_p4/6_neuronal: 64.62%   Integrated Cluster: 0
+M1_p10_neuronal: 64.79%    <---->    I4_p4/6_neuronal: 1.42%   Integrated Cluster: 2
+M1_p10_neuronal: 2.11%    <---->    E2_p4/6_neuronal: 28.02%   Integrated Cluster: 0
+M1_p10_neuronal: 23.24%    <---->    I4_p4/6_neuronal: 1.89%   Integrated Cluster: 5
+
+
+p4/6 Cluster M1:
+
+M1_p4/6_neuronal: 79.35%    <---->    M1_p10_neuronal: 88.03%   Integrated Cluster: 5 2
+M1_p4/6_neuronal: 79.35%    <---->    M1_p10_neuronal: 88.03%   Integrated Cluster: 2 5
+M1_p4/6_neuronal: 79.35%    <---->    E1_p10_neuronal: 48.28%   Integrated Cluster: 2 5
+M1_p4/6_neuronal: 79.35%    <---->    E1_p10_neuronal: 48.28%   Integrated Cluster: 5 2
+M1_p4/6_neuronal: 0.59%    <---->    I2_p10_neuronal: 100.00%   Integrated Cluster: 1
+M1_p4/6_neuronal: 2.36%    <---->    I3_p10_neuronal: 84.00%   Integrated Cluster: 3
+M1_p4/6_neuronal: 8.55%    <---->    I4_p10_neuronal: 67.81%   Integrated Cluster: 0
+M1_p4/6_neuronal: 57.23%    <---->    E3_p10_neuronal: 4.76%   Integrated Cluster: 2
+M1_p4/6_neuronal: 4.72%    <---->    E1_p10_neuronal: 51.72%   Integrated Cluster: 4
+M1_p4/6_neuronal: 8.55%    <---->    E3_p10_neuronal: 45.24%   Integrated Cluster: 0
+M1_p4/6_neuronal: 0.59%    <---->    I1_p10_neuronal: 49.37%   Integrated Cluster: 1
+
+
