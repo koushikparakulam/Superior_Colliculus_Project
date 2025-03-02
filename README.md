@@ -42,29 +42,21 @@ This repository implements a comprehensive gene expression analysis pipeline for
 
 ## **Visualization Examples**
 ### **Timepoint UMAP**
-![Timepoint UMAP](![image](https://github.com/user-attachments/assets/444f481d-820f-4099-9b51-e1fb395b5fb5)
-)
-### **Differential Gene Expression Analysis**
-![Differential_Analysis](![image](https://github.com/user-attachments/assets/277eee90-e23f-4de0-8304-c9281749069b)
-)
+![Timepoint UMAP](Permanent_Results/Neuronal_Umaps/umap_p0_neuronal_cluster.png)
+
 ### **Dot Plot for Differentially Express Neuronal Genes**
-![DEG Plot](![image](https://github.com/user-attachments/assets/6d16bd28-309c-4998-8235-328d5cd62b1d))
+![DEG Plot](Permanent_Results/Neuronal_Dotplots/dotplot_p0_neuronal_dotplot.png)
 
 ### **Sankey Diagram of Cluster Correlations**
 ![Sankey Plot](Permanent_Results/Sankey_Diagrams/Harmony_vs_Corr_Unique_Genes_Sankey.png)
 
-### **Clustural Relation Dendograms**
-![Dendogram_Plot](![image](https://github.com/user-attachments/assets/e548580e-b462-4b08-b631-5d991d1aa44b)
-)
-
 ### **DotPlot Triangle: Shared Genes between Clustural Neighbors**
-![Dotplot_Triangle](![image](https://github.com/user-attachments/assets/e0b802a2-45c0-47f7-8f17-556b8c3c164a)
-)
-### **Harmony Timeseries Plots**
-![Harmony_Timeplot](![image](https://github.com/user-attachments/assets/a23fa845-e0df-4ea7-aeff-a3f5ebe7a703))
+![Dotplot_Triangle](Permanent_Results/Dotplot_Triangles/dotplot__p0_triangle.pdf)
+### **Harmony Timeseries Umap**
+![Harmony_Timeplot](Permanent_Results/Harmony_Integrated/Harmony_Umap/umap_p0_p4_6_integrated_cluster_labels.png)
 
 ### **P-Value Hypothesis Testing of Layer-specific Cluster Correlations**
-![Hypothesis_Testing](![image](https://github.com/user-attachments/assets/851444a0-143d-4e91-82b4-ed3415de0e5c)
+![Hypothesis_Testing](Permanent_Results/Layer_Expression_Correlation/Superficial_Intermediate-Deep/p0_Intermediate-Deep.png
 )
 
 ---
