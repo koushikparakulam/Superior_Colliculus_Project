@@ -51,7 +51,7 @@ This repository implements a comprehensive gene expression analysis pipeline for
 ![DEG Plot](![image](https://github.com/user-attachments/assets/6d16bd28-309c-4998-8235-328d5cd62b1d))
 
 ### **Sankey Diagram of Cluster Correlations**
-![Sankey Plot](![image](https://github.com/user-attachments/assets/559a5f4f-2aa9-4ef1-a553-870b13108610))
+![Sankey Plot](Permanent_Results/Sankey_Diagrams/Harmony_vs_Corr_Unique_Genes_Sankey.png)
 
 ### **Clustural Relation Dendograms**
 ![Dendogram_Plot](![image](https://github.com/user-attachments/assets/e548580e-b462-4b08-b631-5d991d1aa44b)
